@@ -4,11 +4,22 @@
     <string name="dummy_button">Dummy Button</string>
     <string name="dummy_content">DUMMY\nCONTENT</string>
     <string name="title_activity_main">MainActivity</string>
-    <string name="tab_text_1">Tab 1</string>
-    <string name="tab_text_2">Tab 2</string>
-    <string name="tab_text_3">Tab 3</string>
+    <string name="tab_text_1">Home</string>
+    <string name="tab_text_2">Data</string>
+    <string name="tab_text_3">Stats</string>
+    <string name="tab_text_4">Connect</string>
     <string name="action_settings">Settings</string>
     <string name="section_format">Hello World from section: %1$d</string>
     <string name="enter_message">Enter your message</string>
     <string name="send">Send</string>
+    <string name="submit">Submit</string>
+    <string name="water_directions">Add cups of water:</string>
+    <string name="chart_title">Cups of Water by Day</string>
+    <string name="running_avg">Daily Average</string>
+    <string name="launch_greeting">Good Morning, \nJennifer!</string>
+    <string name="msg_header">SEND MESSAGE:</string>
+    <string name="dynamic_greeting">\n\t\tYour water goal for today is: 8 Cups\t\t\n\n\t\tYour water total for today is: 2 Cups\t\t\n</string>
+    <string name="water_average">\n\t\t5.2 Cups\t\t\n</string>
+    <string name="data_header">Enter Data</string>
+    <string name="stats_header">Statistics</string>
 </resources>
